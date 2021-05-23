@@ -7,6 +7,7 @@ Install-Module oh-my-posh
 Install-Module -Name PSReadLine -Force -SkipPublisherCheck
 Install-Module Get-ChildItemColor -AllowClobber
 Install-Module WindowsConsoleFonts
+Install-Module -Name z
 ```
 
 ```powershell
